@@ -1,6 +1,6 @@
-# chopper
+# Chopper
 My Experimental testing of a Yacy Search Server.  
-Warning: It is not a Fork. I may not update it for awhile 
+Warning: It is not a Fork. I may not update it for awhile. 
 
 The source code home is https://github.com/yacy/yacy_search_server If you want the latest code. 
 
