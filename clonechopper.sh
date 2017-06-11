@@ -1,1 +1,1 @@
-clone https://github.com/smokingwheels/chopper
+git clone https://github.com/smokingwheels/chopper
