@@ -6,6 +6,10 @@ The source code home is https://github.com/yacy/yacy_search_server If you want t
 
 Please do not create an bug issue for this Repository, but all comments are welcomed.
 
+When I try it on Windows I will add a note. Currently for Linux.
+
+
+
 # YaCy
 
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/yacy/yacy_search_server/tree/master/docker)
