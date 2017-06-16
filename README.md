@@ -3,7 +3,7 @@ My Experimental testing of a Yacy Search Server. The idea is to have a few small
 
 Warning: It is not a Fork. I may not update it for awhile. 
 
-The source code home is https://github.com/yacy/yacy_search_server If you want the latest code. 
+The source code home is https://github.com/yacy/yacy_search_server If you want the latest code.  
 
 Please do not create an bug issue for this Repository, but all comments are welcomed.
 
