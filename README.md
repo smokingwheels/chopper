@@ -8,6 +8,9 @@ The source code home is https://github.com/yacy/yacy_search_server If you want t
 Please do not create an bug issue for this Repository, but all comments are welcomed.
 
 When I try it on Windows I will add a note. Currently for Linux.
+To put back together.
+
+cat yacy10.0.* > test.tar.gz
 
 
 
